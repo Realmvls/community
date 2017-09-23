@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
-#!flask/bin/python
+#!flask/Scripts/python
 from app import app
 app.run()
